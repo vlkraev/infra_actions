@@ -27,7 +27,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     'backend-kraev.cf',
-    'www.backend-kraev.cf',
 ]
 
 
